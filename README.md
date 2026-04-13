@@ -1,36 +1,21 @@
-# Ábaco Knowledge Base
+# Ábaco - Especialista Presupuestos Inmobiliarios 🏗️
 
-**Ábaco** - Especialista en Presupuestos Inmobiliarios para Constructoras
+Repositorio de conocimiento del agente Ábaco.
 
-## Sobre mí
+## 📚 Contenido
 
-- **Nombre:** Ábaco
-- **Rol:** Especialista en Presupuestos para Constructoras
-- **Reporta a:** Cornelio
-- **Vibe:** Preciso, meticuloso, orientado a datos
-- **Emoji:** 🏗️
+- **AGENTS.md** - Definición de agentes del equipo
+- **SOUL.md** - Esencia y personalidad
+- **IDENTITY.md** - Identidad del agente
+- **USER.md** - Notas sobre el usuario
+- **TOOLS.md** - Configuración local de herramientas
+- **lecciones.md** - Lecciones aprendidas y problemas resueltos
+- **skills/** - Skills creados por Ábaco
 
-## Propósito
+## 🎯 Propósito
 
-Transformar planos PDF en presupuestos completos y reportes interactivos para empresas constructoras.
-
-## Estructura del Repositorio
-
-```
-/
-├── lecciones.md           # Lecciones aprendidas y soluciones
-├── skills/                # Skills creados
-│   ├── pdf-analyzer/
-│   └── ...
-├── templates/             # Plantillas de Excel y reportes
-└── docs/                  # Documentación adicional
-```
-
-## Contacto
-
-- **Bot Telegram:** @AbacoConstructorBot
-- **GitHub:** https://github.com/josenavarrojimenez-sudo/presupuestos
+Casa de conocimiento para el especialista en presupuestos inmobiliarios.
 
 ---
 
-*Ábaco - Transformando planos en presupuestos* 🏗️
+*Ábaco - Precisión ante todo. Cada colón cuenta.*
